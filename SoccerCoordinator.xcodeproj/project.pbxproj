@@ -22,6 +22,7 @@
 		5D4E6A5D1CAAF5EB00EE3B88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D4E6A601CAAF5EB00EE3B88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D4E6A621CAAF5EB00EE3B88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE073DE01D36A76400D84433 /* PlayerExperience.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PlayerExperience.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				5D4E6A5D1CAAF5EB00EE3B88 /* Assets.xcassets */,
 				5D4E6A5F1CAAF5EB00EE3B88 /* LaunchScreen.storyboard */,
 				5D4E6A621CAAF5EB00EE3B88 /* Info.plist */,
+				DE073DE01D36A76400D84433 /* PlayerExperience.playground */,
 			);
 			path = SoccerCoordinator;
 			sourceTree = "<group>";
@@ -286,6 +288,7 @@
 				5D4E6A671CAAF5EB00EE3B88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
